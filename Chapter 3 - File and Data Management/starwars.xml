@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+  <character>
+    <name>Anakin Skywalker</name>
+    <home_planet>Tatooine</home_planet>
+  </character>
+  <character>
+    <name>Obi-Wan Kenobi</name>
+    <home_planet>Stewjon</home_planet>
+  </character>
+  <character>
+    <name>Yoda</name>
+    <home_planet>Coruscant</home_planet>
+  </character>
+  <character>
+    <name>Padmé Amidala</name>
+    <home_planet>Naboo</home_planet>
+  </character>
+  <character>
+    <name>Leia Organa</name>
+    <home_planet>Alderaan</home_planet>
+  </character>
+  <character>
+    <name>Han Solo</name>
+    <home_planet>Corellia</home_planet>
+  </character>
+  <character>
+    <name>C-3PO</name>
+    <home_planet>Tatooine</home_planet>
+  </character>
+  <character>
+    <name>R2-D2</name>
+    <home_planet>Naboo</home_planet>
+  </character>
+  <character>
+    <name>Darth Vader</name>
+    <home_planet>Tatooine</home_planet>
+  </character>
+  <character>
+    <name>Boba Fett</name>
+    <home_planet>Kamino</home_planet>
+  </character>
+</characters>
